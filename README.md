@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:130028,100:ff2f92&height=220&section=header&text=Shaurya&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=62&descSize=18&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:130028,100:ff2f92&height=250&section=header&text=Shaurya&fontSize=90&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=65&descSize=18&descAlign=50&animation=fadeIn" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF2F92&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Shaurya+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;DSA+%26+Problem+Solving+Enthusiast+%F0%9F%A7%A0;Building+Cool+Stuff+Every+Day+%F0%9F%94%A5;Let%27s+Connect+%26+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
+
 
 <br/>
 
